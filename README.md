@@ -1,6 +1,7 @@
 # Power-bi-Project-Data-professional-survey-
 
 In this project I used a realtime survey report by total of 630 anaonymos people from all over the world 
+
 Questions 
 1.Average salary by job title 
 
